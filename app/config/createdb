@@ -1,0 +1,9 @@
+use budget
+
+db.createUser({
+  user: "budget",
+  pwd: "budget2025",
+  roles: [
+    { role: "readWrite", db: "budget" }
+  ]
+})

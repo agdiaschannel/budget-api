@@ -1,0 +1,10 @@
+{
+  "realm": "agdias",
+  "auth-server-url": "http://keycloak.agdias.com/",
+  "ssl-required": "external",
+  "resource": "budget-api",
+  "credentials": {
+    "secret": "EyP2UTXa4SHfrfcwcTltYrKEPyPR8WNq"
+  },
+  "confidential-port": 0
+}
